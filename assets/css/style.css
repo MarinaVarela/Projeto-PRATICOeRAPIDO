@@ -221,6 +221,32 @@ footer{
 
 }
 
+.quemsomos-title {
+  font-weight: bold;
+  color: #F85F25;
+}
+
+
+/*NOSSO TIME*/
+
+.social-link {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+}
+
+.social-link:hover, .social-link:focus {
+  background: #ddd;
+  text-decoration: none;
+  color: #555;
+}
+
 
 
 /*FOOTER*/
