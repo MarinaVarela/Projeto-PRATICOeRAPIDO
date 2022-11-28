@@ -21,14 +21,12 @@ footer{
 }
 
 /*NAV*/
-
 #artpratu{
   color: #705838;
 }  
 
 
 /*CAROUSEL*/
-
 .slider {
   position: relative;
   width: 960px;
@@ -89,7 +87,6 @@ footer{
 }
 
 /* SLIDES */
-
 .slides {
   list-style: none;
   padding: 0;
@@ -214,13 +211,7 @@ footer{
 
 
 
-/*PRODUTOS*/
-
-#produtos{
-  color:#0069A3;
-
-}
-
+/*QUEM SOMOS*/
 .quemsomos-title {
   font-weight: bold;
   color: #F85F25;
@@ -228,7 +219,6 @@ footer{
 
 
 /*NOSSO TIME*/
-
 .social-link {
   width: 30px;
   height: 30px;
@@ -248,9 +238,7 @@ footer{
 }
 
 
-
 /*FOOTER*/
-
 .copy{
   background-color: #ef9c307c;  
 }
